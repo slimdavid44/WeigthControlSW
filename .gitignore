@@ -1,0 +1,7 @@
+/__pychache__/
+/.idea
+/backup
+
+**/__pychache__
+
+*.pyc
